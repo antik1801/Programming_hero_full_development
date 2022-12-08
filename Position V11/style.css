@@ -1,0 +1,19 @@
+.box{
+    width: 200px;
+    height: 200px;
+    background-color: steelblue;
+    margin: 5px;
+    
+}
+.container{
+    display: flex;
+}
+/* .box-2{
+    position: relative;
+    left: -150px;
+   
+} */
+.box-1{
+    /* position: relative; */
+    
+}
